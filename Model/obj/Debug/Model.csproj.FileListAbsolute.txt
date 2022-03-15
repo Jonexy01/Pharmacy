@@ -1,0 +1,16 @@
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\Model\bin\Debug\Model.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\Model\bin\Debug\Model.pdb
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\Model\obj\Debug\Model.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\Model\obj\Debug\Model.pdb
+D:\Visual studio documents\Projects\Pharmacy\Model\bin\Debug\Model.dll
+D:\Visual studio documents\Projects\Pharmacy\Model\bin\Debug\Model.pdb
+D:\Visual studio documents\Projects\Pharmacy\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual studio documents\Projects\Pharmacy\Model\obj\Debug\Model.dll
+D:\Visual studio documents\Projects\Pharmacy\Model\obj\Debug\Model.pdb
+D:\Visual studio documents\Projects\Pharmacy\Model\bin\Debug\Model.dll.config
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\Model\bin\Debug\Model.dll.config
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\Model\bin\Debug\Model.dll
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\Model\bin\Debug\Model.pdb
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\Model\obj\Debug\Model.dll
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\Model\obj\Debug\Model.pdb

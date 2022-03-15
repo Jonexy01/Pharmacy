@@ -1,0 +1,27 @@
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\bin\Debug\BLL.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\bin\Debug\BLL.pdb
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\bin\Debug\DAL.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\bin\Debug\Model.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\bin\Debug\DAL.pdb
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\bin\Debug\Model.pdb
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\obj\Debug\BLL.dll
+C:\Users\JONAHSEYI\Documents\Visual Studio 2010\Projects\Pharmacy\BLL\obj\Debug\BLL.pdb
+D:\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\BLL.dll
+D:\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\BLL.pdb
+D:\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\DAL.dll
+D:\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\Model.dll
+D:\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\DAL.pdb
+D:\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\Model.pdb
+D:\Visual studio documents\Projects\Pharmacy\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual studio documents\Projects\Pharmacy\BLL\obj\Debug\BLL.dll
+D:\Visual studio documents\Projects\Pharmacy\BLL\obj\Debug\BLL.pdb
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\BLL.dll
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\BLL.pdb
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\DAL.dll
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\Model.dll
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\DAL.pdb
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\bin\Debug\Model.pdb
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\obj\Debug\BLL.dll
+C:\Users\JONAH OLUSEYI\Documents\Seyi 1\B\Visual studio documents\Projects\Pharmacy\BLL\obj\Debug\BLL.pdb

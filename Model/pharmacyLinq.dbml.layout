@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="pharmacyLinq">
+  <DataContextMoniker Name="/pharmacyLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1acffdd8-e1b0-4bee-9379-e4d983499762" absoluteBounds="5.375, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/pharmacyLinqDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d844417f-0c4e-4405-a0b4-e0ebff62e0fa" absoluteBounds="5.39, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="55be4973-3f2f-4b16-ad9b-bf5baf50a128" absoluteBounds="0.5, 1.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/pharmacyLinqDataContext/aspnet_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c4126b9-097e-42b1-9115-f51e617823d0" absoluteBounds="0.51500000000000012, 2.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="02263eb5-ed95-4adf-9f36-9ab779233c35" absoluteBounds="5.375, 4.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/pharmacyLinqDataContext/OrderedProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94ab8d9c-7349-45e6-887f-7ddbaf946c53" absoluteBounds="5.39, 4.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.65625 : 3.0881982421875); (6.65625 : 4.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/pharmacyLinqDataContext/Product/Product_OrderedProduct" />
+      <nodes>
+        <classShapeMoniker Id="1acffdd8-e1b0-4bee-9379-e4d983499762" />
+        <classShapeMoniker Id="02263eb5-ed95-4adf-9f36-9ab779233c35" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d23e6c84-4091-4439-81af-3559ad032098" absoluteBounds="2, 4.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/pharmacyLinqDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9527efb7-9c7e-42d8-a0c0-cd4c80f3dca4" absoluteBounds="2.015, 4.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4 : 5.16429768880208); (5.375 : 5.16429768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/pharmacyLinqDataContext/Order/Order_OrderedProduct" />
+      <nodes>
+        <classShapeMoniker Id="d23e6c84-4091-4439-81af-3559ad032098" />
+        <classShapeMoniker Id="02263eb5-ed95-4adf-9f36-9ab779233c35" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.25 : 3.78049967447917); (2.25 : 4.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/pharmacyLinqDataContext/aspnet_User/aspnet_User_Order" />
+      <nodes>
+        <classShapeMoniker Id="55be4973-3f2f-4b16-ad9b-bf5baf50a128" />
+        <classShapeMoniker Id="d23e6c84-4091-4439-81af-3559ad032098" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e82a69a6-20c1-4861-a38f-6dd29c5ea73f" absoluteBounds="2.875, 0.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/pharmacyLinqDataContext/test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8260b95f-6714-4c2c-8b30-8603bb3e823a" absoluteBounds="2.89, 1.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
